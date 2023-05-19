@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub Profile. Professionally I work as
+Welcome to my GitHub Profile. Professionally, I work as
   - Cloud Data Engineer
   - Backend Engineer (Django, FastAPI/Starlette)
 
-Additionally I contribute to open source projects like
+Additionally, I contribute to open source projects like
 
   - [Pandas](https://github.com/pandas-dev/pandas)
   - [Numpy](https://github.com/numpy/numpy)
