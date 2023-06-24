@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Welcome to my GitHub Profile. Professionally, I work as
+I work as
   - Cloud Data Engineer
   - Backend Engineer (Django, FastAPI/Starlette)
 
